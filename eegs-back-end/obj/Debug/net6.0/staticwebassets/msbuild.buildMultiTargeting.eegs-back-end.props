@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eegs-back-end.props" />
+</Project>
